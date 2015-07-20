@@ -15,6 +15,7 @@
     "ejs": "^2.3.2",
     "express": "^4.13.1",
     "express-session": "^1.11.3",
+    "firebase": "^2.2.7",
     "method-override": "^2.3.3",
     "morgan": "^1.6.1",
     "node-quickbooks": "^1.0.18",
